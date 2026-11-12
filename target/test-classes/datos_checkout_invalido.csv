@@ -1,0 +1,4 @@
+nombre,apellido,postal,errorEsperado
+,Pérez,110111,Error: First Name is required
+Ana,,110111,Error: Last Name is required
+Ana,Pérez,,Error: Postal Code is required

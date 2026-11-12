@@ -1,0 +1,9 @@
+saucedemo\tests\InventoryTest.class
+saucedemo\base\BaseTest.class
+saucedemo\pages\InventoryPage.class
+saucedemo\pages\BasePage.class
+saucedemo\pages\LoginPage.class
+saucedemo\tests\CheckoutTest.class
+saucedemo\pages\CartPage.class
+saucedemo\pages\CheckoutPage.class
+saucedemo\tests\LoginTest.class
